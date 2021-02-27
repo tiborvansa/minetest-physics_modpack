@@ -1,0 +1,3 @@
+[submodule "dynamic_liquid"]
+	path = dynamic_liquid
+	url = https://github.com/minetest-mods/dynamic_liquid.git
